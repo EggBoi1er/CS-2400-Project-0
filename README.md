@@ -8,4 +8,4 @@ This is the link to my Past CS 1400 Project - https://github.com/EggBoi1er/Past-
 
 This is the link to my Youtube video of the recording - https://www.youtube.com/watch?v=BfQkcSWkT7k
 
-The screencast software that I used was Nvidia
+The screencast software that I used was Nvidia my IDE was VSCode
